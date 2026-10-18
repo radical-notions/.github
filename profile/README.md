@@ -1,5 +1,5 @@
 # Radical Notions
 
-把想法做成产品。
+Bring the future closer.
 
-我们是一支小团队，在这里协作开发、分享想法，持续改进正在做的东西。
+We're a small team turning bold ideas into useful products.
